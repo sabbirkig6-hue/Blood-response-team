@@ -1,4 +1,3 @@
-
 name: Build Blood Response Team APK
 
 on:
@@ -29,6 +28,9 @@ jobs:
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
 
+      - name: Install Android SDK
+        run: sdkmanager "platforms;android-35" "build-tools;35.0.0"
+
       - name: Build APK
         run: gradle assembleDebug
 
@@ -37,4 +39,3 @@ jobs:
         with:
           name: Blood-Response-Team-APK
           path: app/build/outputs/apk/debug/app-debug.apk
-          
