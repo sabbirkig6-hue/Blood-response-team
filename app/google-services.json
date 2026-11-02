@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "413436105740",
+    "project_id": "my-apps-e45e8",
+    "storage_bucket": "my-apps-e45e8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413436105740:android:cf27cdb621dcc9b2820a29",
+        "android_client_info": {
+          "package_name": "com.firetookapps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413436105740-tl50u6jok833obhh6eu8uje92u4d1taj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firetookapps",
+            "certificate_hash": "49705073dd4d0e27509623de1aed92b134ce0b2c"
+          }
+        },
+        {
+          "client_id": "413436105740-094m73hch3k5pk3i6ciie91r82135r70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhH3amzuOhTuFn7qDH4dsiKPlY71oLTzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413436105740-094m73hch3k5pk3i6ciie91r82135r70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413436105740:android:462108c393ce3e90820a29",
+        "android_client_info": {
+          "package_name": "com.infinix.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413436105740-094m73hch3k5pk3i6ciie91r82135r70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhH3amzuOhTuFn7qDH4dsiKPlY71oLTzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413436105740-094m73hch3k5pk3i6ciie91r82135r70.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
